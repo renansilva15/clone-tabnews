@@ -3,7 +3,7 @@ function Home() {
     <h1>
       Miau miau miau miau!<br />
       Digo,<br />
-      Uma frase para uma gatinha!<br />
+      Uma frase para uma gatinha! 🐈‍⬛<br />
       ᓚᘏᗢ
     </h1>
   );
